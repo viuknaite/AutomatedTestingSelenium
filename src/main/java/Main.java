@@ -12,3 +12,5 @@ public class Main {
 
 //header//button[@type="button"] - Каталог
 //header//div//form - Поиск
+//ul[@class="header-menu"]/li[1] - Первый пункт верхнего меню
+//ul[@class="header-menu"]/li[1]/./a - Ссылка внутри пункта меню
